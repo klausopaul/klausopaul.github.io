@@ -12,11 +12,51 @@
     
     
     <item>
-      <title>An Approach to Style</title>
-      <link>https://klausopaul.github.io/post/an-approach-to-style/</link>
-      <pubDate>Sun, 19 Aug 2018 22:24:00 -0400</pubDate>
+      <title>Sustainability in an Agile world</title>
+      <link>https://klausopaul.github.io/post/sustainability_in_an_agile_world/</link>
+      <pubDate>Thu, 30 Aug 2018 21:15:00 -0400</pubDate>
       
-      <guid>https://klausopaul.github.io/post/an-approach-to-style/</guid>
+      <guid>https://klausopaul.github.io/post/sustainability_in_an_agile_world/</guid>
+      <description>The text below is from a newsletter I subscribe for. Its author is Gojko Adzic, who also wrote Specification by Example
+Lots of teams today struggle with scheduling something usually called technical work: system improvements that the team finds important, but nobody actually asked for them. Do too little technical work, and you’re actively damaging the product by slowly turning it into an unmaintainable mess. Do too much of it, and you’re actively damaging the product by delaying important business features.</description>
+    </item>
+    
+    <item>
+      <title>Motion versus action</title>
+      <link>https://klausopaul.github.io/post/motion_versus_action/</link>
+      <pubDate>Wed, 29 Aug 2018 22:56:00 -0400</pubDate>
+      
+      <guid>https://klausopaul.github.io/post/motion_versus_action/</guid>
+      <description>Motion is when you’re busy doing something, but that task will never produce an outcome by itself. Action, on the other hand, is the type of behavior that will get you a result.
+If motion doesn’t lead to results, why do we do it?
+Sometimes we do it because we actually need to plan or learn more. But more often than not, we do it because motion allows us to feel like we’re making progress without running the risk of failure.</description>
+    </item>
+    
+    <item>
+      <title>Useful, engaging experiences</title>
+      <link>https://klausopaul.github.io/post/useful_engaging_experiences/</link>
+      <pubDate>Sun, 19 Aug 2018 22:26:00 -0400</pubDate>
+      
+      <guid>https://klausopaul.github.io/post/useful_engaging_experiences/</guid>
+      <description>&amp;ldquo;Usability is always secondary. It&amp;rsquo;s never the most important thing about an experience. I will accept poor usability if I get what I need, if the total experience is great. I will reject perfect usability if I am not rewarded with a useful, engaging experience.&amp;rdquo;
+ Donald Norman himself, author of The Design of Everyday Things</description>
+    </item>
+    
+    <item>
+      <title>Intent</title>
+      <link>https://klausopaul.github.io/post/intent/</link>
+      <pubDate>Sun, 19 Aug 2018 22:07:00 -0400</pubDate>
+      
+      <guid>https://klausopaul.github.io/post/intent/</guid>
+      <description>A couple of years ago I took a training class on facilitation for business analysts. The trainer often compared the leader-follower model that most organizations follow to what he mentioned as intent-model. His example was a military one: rather than tell the troops how to take control over a specific hill, an intent-based leader would give his/her troops the intent: take over a specific hill. The troops would then use their training and knowledge to achieve the intent.</description>
+    </item>
+    
+    <item>
+      <title>An Approach to Style</title>
+      <link>https://klausopaul.github.io/post/an_approach_to_style/</link>
+      <pubDate>Sun, 19 Aug 2018 13:46:00 -0400</pubDate>
+      
+      <guid>https://klausopaul.github.io/post/an_approach_to_style/</guid>
       <description>I can&amp;rsquo;t recall what made me borrow this book from my local library: The Elements of Style, by William Strunk Jr. and E.B. White. On &amp;ldquo;An approach to style&amp;rdquo; section I&amp;rsquo;ve found a couple of interesting rules that struck a chord, as those are things we, business analysts, should have in mind while communicating our work to others.
 Be clear  Clarity is not the prize in writing, nor is it always the principal mark of a good style.</description>
     </item>
