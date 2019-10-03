@@ -12,21 +12,13 @@
     
     
     <item>
-      <title>Fifth</title>
-      <link>https://klausopaul.github.io/post/fifth/</link>
-      <pubDate>Tue, 24 Sep 2019 23:12:58 -0400</pubDate>
+      <title>An Approach to Style</title>
+      <link>https://klausopaul.github.io/post/an-approach-to-style/</link>
+      <pubDate>Sun, 19 Aug 2018 22:24:00 -0400</pubDate>
       
-      <guid>https://klausopaul.github.io/post/fifth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>https://klausopaul.github.io/post/first/</link>
-      <pubDate>Tue, 24 Sep 2019 22:37:54 -0400</pubDate>
-      
-      <guid>https://klausopaul.github.io/post/first/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt convallis sem iaculis dapibus. In ornare lorem at magna aliquam porta. Maecenas vitae est tincidunt, vestibulum magna sed, finibus lectus. Nulla vel bibendum velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean hendrerit consectetur magna, ornare tristique urna aliquet eget. Sed bibendum neque vel nisi posuere, non aliquet dolor fermentum. In scelerisque consectetur urna, sed mattis tellus facilisis ut.</description>
+      <guid>https://klausopaul.github.io/post/an-approach-to-style/</guid>
+      <description>I can&amp;rsquo;t recall what made me borrow this book from my local library: The Elements of Style, by William Strunk Jr. and E.B. White. On &amp;ldquo;An approach to style&amp;rdquo; section I&amp;rsquo;ve found a couple of interesting rules that struck a chord, as those are things we, business analysts, should have in mind while communicating our work to others.
+Be clear  Clarity is not the prize in writing, nor is it always the principal mark of a good style.</description>
     </item>
     
   </channel>
