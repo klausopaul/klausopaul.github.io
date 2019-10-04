@@ -1,77 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Home</title>
-    <link>https://klausopaul.github.io/</link>
-    <description>Recent content on Home</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <copyright>Copyright © 2019 by Klaus Paul</copyright>
-    <lastBuildDate>Wed, 02 Oct 2019 10:20:00 -0400</lastBuildDate>
-    
-	<atom:link href="https://klausopaul.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>About me</title>
-      <link>https://klausopaul.github.io/about/myself/</link>
-      <pubDate>Wed, 02 Oct 2019 10:20:00 -0400</pubDate>
-      
-      <guid>https://klausopaul.github.io/about/myself/</guid>
-      <description>Intro
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home</title><link>https://klausopaul.github.io/</link><description>Recent content on Home</description><generator>Hugo -- gohugo.io</generator><copyright>Copyright © 2019 by Klaus Paul</copyright><lastBuildDate>Wed, 02 Oct 2019 10:20:00 -0400</lastBuildDate><atom:link href="https://klausopaul.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://klausopaul.github.io/about/myself/</link><pubDate>Wed, 02 Oct 2019 10:20:00 -0400</pubDate><guid>https://klausopaul.github.io/about/myself/</guid><description>Intro
 Experienced and accomplished business/system analyst in technology environments. Master Certification from Schulich Executive Education Centre in Business Analysis. Expertise in transformation- enhancement and maintenance projects. Strong analytical and problem-solving skills. Skilled in inception, elaboration and implementation of computer systems (web/mobile). Ability to manage teams and prioritize tasks in a rapidly changing environment.
 Expertise:
- Presentation Leadership Business Analysis SDLC Agile / Scrum / Waterfall Elicitation Interviews JAD sessions User Stories Wire Frames &amp;amp; Mock-ups UML Diagrams Data Modeling Flowcharts Process Flows Web development iOS development APIs development SQL Python HTML JIRA/Confluence HPQC MS Visio MS Office  </description>
-    </item>
-    
-    <item>
-      <title>Sustainability in an Agile world</title>
-      <link>https://klausopaul.github.io/post/sustainability_in_an_agile_world/</link>
-      <pubDate>Thu, 30 Aug 2018 21:15:00 -0400</pubDate>
-      
-      <guid>https://klausopaul.github.io/post/sustainability_in_an_agile_world/</guid>
-      <description>The text below is from a newsletter I subscribe for. Its author is Gojko Adzic, who also wrote Specification by Example
-Lots of teams today struggle with scheduling something usually called technical work: system improvements that the team finds important, but nobody actually asked for them. Do too little technical work, and you’re actively damaging the product by slowly turning it into an unmaintainable mess. Do too much of it, and you’re actively damaging the product by delaying important business features.</description>
-    </item>
-    
-    <item>
-      <title>Motion versus action</title>
-      <link>https://klausopaul.github.io/post/motion_versus_action/</link>
-      <pubDate>Wed, 29 Aug 2018 22:56:00 -0400</pubDate>
-      
-      <guid>https://klausopaul.github.io/post/motion_versus_action/</guid>
-      <description>Motion is when you’re busy doing something, but that task will never produce an outcome by itself. Action, on the other hand, is the type of behavior that will get you a result.
+Presentation Leadership Business Analysis SDLC Agile / Scrum / Waterfall Elicitation Interviews JAD sessions User Stories Wire Frames &amp;amp; Mock-ups UML Diagrams Data Modeling Flowcharts Process Flows Web development iOS development APIs development SQL Python HTML JIRA/Confluence HPQC MS Visio MS Office</description></item><item><title>Mind Mapping</title><link>https://klausopaul.github.io/post/mind-mapping/</link><pubDate>Wed, 19 Sep 2018 21:46:00 -0400</pubDate><guid>https://klausopaul.github.io/post/mind-mapping/</guid><description>In one of my previous projects, the priority for one of the iterations was to size the effort for different features of the system, in order for business to make an informed decision on which option to select as priority for the next fiscal year. Why were we doing that deserves its own post (or series of).
+The task seemed daunting: we were tasked to sizing the effort not for one sprint, but for several ones, months in advance.</description></item><item><title>What Is a Customer Journey Map?</title><link>https://klausopaul.github.io/post/what-is-a-customer-journey-map/</link><pubDate>Wed, 12 Sep 2018 23:49:00 -0400</pubDate><guid>https://klausopaul.github.io/post/what-is-a-customer-journey-map/</guid><description>In this Agile project I was involved, the terms customer journey, journey map, customer map, and any other variation of it were used left and right, and every time, with a different meaning behind. To compound to the confusion of using different terms, the realization of the &amp;ldquo;map&amp;rdquo; as stickies on the wall was something else completely.
+At the time I did some research to try and understand what a customer journey map really is.</description></item><item><title>Diagramming Tool: Draw.Io</title><link>https://klausopaul.github.io/post/diagramming-tool-draw-io/</link><pubDate>Wed, 12 Sep 2018 23:29:00 -0400</pubDate><guid>https://klausopaul.github.io/post/diagramming-tool-draw-io/</guid><description>In my work laptop, running Windows 7 Enterprise, I have Visio Standard installed. I&amp;rsquo;ve grown accustomed to a couple of features that make for a productive experience, for example:
+Shift+mouse wheel, to move sideways Control+mouse wheel, to zoom in and out The alignment guides Layers, to easily create complex diagrams and also easily select elements A vast library of stencils Ability to create your own stencils Ability to export to VSDX and VDX (because I can import those into Gliffy and have my diagram shared easily into a Confluence page) As many of you may know, there is no Visio for MacOS (at least at the time I wrote this).</description></item><item><title>Where Is the Logout Option</title><link>https://klausopaul.github.io/post/where-is-the-logout-option/</link><pubDate>Tue, 11 Sep 2018 22:57:00 -0400</pubDate><guid>https://klausopaul.github.io/post/where-is-the-logout-option/</guid><description>Take a look into the image below and try to find the logout option. The screenshot is from a job application website.
+I have been to that website only two times in the last couple of months, and always had some trouble trying to logout. Imagine going to a new place in a city, say, a restaurant, and not finding the way out of it. Hard to believe that would ever happen, right?</description></item><item><title>EVO - Evolutionary Project Management and Product Development</title><link>https://klausopaul.github.io/post/evo-evolutionary-project-management-and-product-development/</link><pubDate>Thu, 06 Sep 2018 22:47:00 -0400</pubDate><guid>https://klausopaul.github.io/post/evo-evolutionary-project-management-and-product-development/</guid><description>A couple of days ago I stumbled on this book: EVO - Evolutionary Project Management &amp;amp; Product Development
+I started the reading yesterday, so I still don&amp;rsquo;t have an opinion whether it is good or not, but it does seems promising. Its main premise is that successful projects should be the norm, not the exception.
+I will come back with another post after I get further into the reading.</description></item><item><title>Who Is a Business Analyst</title><link>https://klausopaul.github.io/post/who-is-a-business-analyst/</link><pubDate>Thu, 06 Sep 2018 22:23:00 -0400</pubDate><guid>https://klausopaul.github.io/post/who-is-a-business-analyst/</guid><description>For the past decade, I have thought about how to best answer this question: who is a business analyst? I believe the answer is not only important in order to explain to others what you do, but also, to ensure any person working on the area can thrive.
+According to the IIBA glossary, business analysis is defined as:
+The practice of enabling change in the context of an enterprise by defining needs and recommending solutions that deliver value to stakeholders.</description></item><item><title>The Lost Art of Troubleshooting</title><link>https://klausopaul.github.io/post/the-lost-art-of-troubleshooting/</link><pubDate>Thu, 06 Sep 2018 21:49:00 -0400</pubDate><guid>https://klausopaul.github.io/post/the-lost-art-of-troubleshooting/</guid><description>Troubleshooting problems seems to be an &amp;ldquo;art&amp;rdquo; that is disappearing. Or at least, that is what is seems to me.
+On my first week as a software tester, back in the day, the team received report that the web site had an issue and it was preventing customers from placing orders. It was a all-hands-on-deck moment and the team got to work to try and reproduce the problem in our testing environment; standard procedure you can say.</description></item><item><title>The Parable of the Two Young Fish</title><link>https://klausopaul.github.io/post/the_parable_of_the_two_young_fish/</link><pubDate>Thu, 30 Aug 2018 22:00:00 -0400</pubDate><guid>https://klausopaul.github.io/post/the_parable_of_the_two_young_fish/</guid><description>Some time ago I stumbled upon this commencement address where I&amp;rsquo;ve found this fascinating parable of the two young fish:
+&amp;hellip;There are these two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says &amp;ldquo;Morning, boys. How&amp;rsquo;s the water?&amp;rdquo; And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes &amp;ldquo;What the hell is water?</description></item><item><title>Sustainability in an Agile world</title><link>https://klausopaul.github.io/post/sustainability_in_an_agile_world/</link><pubDate>Thu, 30 Aug 2018 21:15:00 -0400</pubDate><guid>https://klausopaul.github.io/post/sustainability_in_an_agile_world/</guid><description>The text below is from a newsletter I subscribe for. Its author is Gojko Adzic, who also wrote Specification by Example
+Lots of teams today struggle with scheduling something usually called technical work: system improvements that the team finds important, but nobody actually asked for them. Do too little technical work, and you’re actively damaging the product by slowly turning it into an unmaintainable mess. Do too much of it, and you’re actively damaging the product by delaying important business features.</description></item><item><title>Motion versus action</title><link>https://klausopaul.github.io/post/motion_versus_action/</link><pubDate>Wed, 29 Aug 2018 22:56:00 -0400</pubDate><guid>https://klausopaul.github.io/post/motion_versus_action/</guid><description>Motion is when you’re busy doing something, but that task will never produce an outcome by itself. Action, on the other hand, is the type of behavior that will get you a result.
 If motion doesn’t lead to results, why do we do it?
-Sometimes we do it because we actually need to plan or learn more. But more often than not, we do it because motion allows us to feel like we’re making progress without running the risk of failure.</description>
-    </item>
-    
-    <item>
-      <title>Useful, engaging experiences</title>
-      <link>https://klausopaul.github.io/post/useful_engaging_experiences/</link>
-      <pubDate>Sun, 19 Aug 2018 22:26:00 -0400</pubDate>
-      
-      <guid>https://klausopaul.github.io/post/useful_engaging_experiences/</guid>
-      <description>&amp;ldquo;Usability is always secondary. It&amp;rsquo;s never the most important thing about an experience. I will accept poor usability if I get what I need, if the total experience is great. I will reject perfect usability if I am not rewarded with a useful, engaging experience.&amp;rdquo;
- Donald Norman himself, author of The Design of Everyday Things</description>
-    </item>
-    
-    <item>
-      <title>Intent</title>
-      <link>https://klausopaul.github.io/post/intent/</link>
-      <pubDate>Sun, 19 Aug 2018 22:07:00 -0400</pubDate>
-      
-      <guid>https://klausopaul.github.io/post/intent/</guid>
-      <description>A couple of years ago I took a training class on facilitation for business analysts. The trainer often compared the leader-follower model that most organizations follow to what he mentioned as intent-model. His example was a military one: rather than tell the troops how to take control over a specific hill, an intent-based leader would give his/her troops the intent: take over a specific hill. The troops would then use their training and knowledge to achieve the intent.</description>
-    </item>
-    
-    <item>
-      <title>An Approach to Style</title>
-      <link>https://klausopaul.github.io/post/an_approach_to_style/</link>
-      <pubDate>Sun, 19 Aug 2018 13:46:00 -0400</pubDate>
-      
-      <guid>https://klausopaul.github.io/post/an_approach_to_style/</guid>
-      <description>I can&amp;rsquo;t recall what made me borrow this book from my local library: The Elements of Style, by William Strunk Jr. and E.B. White. On &amp;ldquo;An approach to style&amp;rdquo; section I&amp;rsquo;ve found a couple of interesting rules that struck a chord, as those are things we, business analysts, should have in mind while communicating our work to others.
-Be clear  Clarity is not the prize in writing, nor is it always the principal mark of a good style.</description>
-    </item>
-    
-  </channel>
-</rss>
+Sometimes we do it because we actually need to plan or learn more. But more often than not, we do it because motion allows us to feel like we’re making progress without running the risk of failure.</description></item><item><title>Useful, engaging experiences</title><link>https://klausopaul.github.io/post/useful_engaging_experiences/</link><pubDate>Sun, 19 Aug 2018 22:26:00 -0400</pubDate><guid>https://klausopaul.github.io/post/useful_engaging_experiences/</guid><description>&amp;ldquo;Usability is always secondary. It&amp;rsquo;s never the most important thing about an experience. I will accept poor usability if I get what I need, if the total experience is great. I will reject perfect usability if I am not rewarded with a useful, engaging experience.&amp;rdquo;
+Donald Norman himself, author of The Design of Everyday Things</description></item><item><title>Intent</title><link>https://klausopaul.github.io/post/intent/</link><pubDate>Sun, 19 Aug 2018 22:07:00 -0400</pubDate><guid>https://klausopaul.github.io/post/intent/</guid><description>A couple of years ago I took a training class on facilitation for business analysts. The trainer often compared the leader-follower model that most organizations follow to what he mentioned as intent-model. His example was a military one: rather than tell the troops how to take control over a specific hill, an intent-based leader would give his/her troops the intent: take over a specific hill. The troops would then use their training and knowledge to achieve the intent.</description></item><item><title>An Approach to Style</title><link>https://klausopaul.github.io/post/an_approach_to_style/</link><pubDate>Sun, 19 Aug 2018 13:46:00 -0400</pubDate><guid>https://klausopaul.github.io/post/an_approach_to_style/</guid><description>I can&amp;rsquo;t recall what made me borrow this book from my local library: The Elements of Style, by William Strunk Jr. and E.B. White. On &amp;ldquo;An approach to style&amp;rdquo; section I&amp;rsquo;ve found a couple of interesting rules that struck a chord, as those are things we, business analysts, should have in mind while communicating our work to others.
+Be clear Clarity is not the prize in writing, nor is it always the principal mark of a good style.</description></item></channel></rss>
